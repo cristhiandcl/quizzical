@@ -2,6 +2,13 @@
 
 A react app where you can test yourself with some trivia question
 
+* https://cristhiandcl.github.io/quizzical/
+
+## `Libraries`
+
+* react
+* nanoid
+
 ## `Home page`
 ![image](https://user-images.githubusercontent.com/83930705/203838037-71f03fc1-5954-41f4-b2ee-c1342b207116.png)
 
